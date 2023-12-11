@@ -8,8 +8,82 @@ Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
 // tag::EN[]
 === What does the module “{curriculum-short}” convey?
 
-The module presents {curriculum-short} to the participants …
-At the end of the module, the participants know … and are able to …
+Among the responsibilities of a software architect is making sure that
+the architecture design is correctly refined and implemented, meaning
+that the implementation is architecturally compliant. On one hand, the
+implemented system should conform to the system’s software
+architecture, i.e. the interfaces, and the relationships defined in
+the software architecture. On the other hand, the models that describe
+the system functionality should be correct regarding the system
+requirements.
+
+Correctness seems self-evident as a requirement, but it rarely makes
+it into explicit design documents or design artifacts. Often,
+correctness is not directly applicable to the "messy" aspects of a
+software system which may have co-evolved with vaguely formulated
+requirements, where correctness is in the eye of the beholder. Yet
+some application domains require correctness of certain aspects of a
+system implementation with respect to its requirement
+specification. Examples include software applications that:
+
+* control mission-critical hardware,
+* secure highly sensitive pieces of information, or
+* make revenue-vital calculations.
+
+Traditional architecture focuses on producing a workable and
+maintainable system. Its functionality is assured through manual
+automated testing, which only operates on individual examples. These
+can, as the old adage goes, only show the presence, but not the
+absence of errors: Properties underlying the tests are not typically
+constructed systematically, and only a small part of the state space
+is covered.
+
+Thus, traditional software architecture and development methods are
+insufficient to ensure correctness as in the examples above. This
+curriculum intends to provide a collection of formal methods to
+supplement and replace the traditional architect's arsenal. These
+methods produce mathematical proofs of critical system
+properties. Note that such proof can not typically be produced as an
+afterthought to a system's architecture. Instead, the architecture
+needs to be designed from the start to be amenable to such
+proof. While designing and building systems that are amenable to
+various flavors of automated testing – such as unit, integration,
+acceptance, and property testing – is established practice and
+well-supported by common technology stacks, formal methods require a
+substantially higher effort to incorporate in a design. For instance,
+establishing a formal connection between specification and
+implementation requires a careful selection of specification and
+programming languages, respectively.
+
+To apply formal methods, architects need to formulate important
+properties of the software system mathematically, construct an
+architecture capable of ensuring these properties, and then proceed to
+verify them formally. Creating an architecture fit for verification
+requires careful consideration, and a high degree of architectural
+competency. In particular, architects need to:
+
+* choose appropriate properties to verify,
+* create verifiable models for the whole system under analysis as well
+  as for its components,
+* partition the system into verifiable components, and ensuring that
+  the component properties are composable into system properties,
+  which in turn are verified at system level
+* choose appropriate formal techniques and tools to verify the
+  properties
+* integrate verification into the software development process and
+  tool chain
+
+Software architects can employ these skills and techniques,
+particularly in early phases of the design of the system
+architecture. Formal verification methods are not only used to show
+correctness of architecture models regarding specific system
+requirements, their application can, in fact, be guided and directed
+by the functional system architecture itself. Relatedly, a strong
+focus on formal methods in system design may feed into better
+“traditional” testability, for example by the ability to automatically
+generate test cases, drastically increasing software quality while
+simultaneously increasing development.
+
 // end::EN[]
 
 
