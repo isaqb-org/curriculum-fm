@@ -20,11 +20,23 @@ tbd.
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: TBD
+==== LG 4-1: Property-Based Testing
 tbd.
 
 [[LG-4-2]]
-==== LG 4-2: TBD
+==== LG 4-2: Model Checking
+tbd.
+
+[[LG-4-3]]
+==== LG 4-3: Proof Assistants
+tbd.
+
+[[LG-4-4]]
+==== LG 4-4: SMT Solvers
+tbd.
+
+[[LG-4-4]]
+==== LG 4-5: Abstract Interpretation
 tbd.
 // end::EN[]
 

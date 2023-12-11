@@ -8,7 +8,7 @@
 // end::DE[]
 
 // tag::EN[]
-== This is the First Module's Title
+== Logic
 // end::EN[]
 
 
