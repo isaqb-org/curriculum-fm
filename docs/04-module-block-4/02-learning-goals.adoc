@@ -24,19 +24,23 @@ tbd.
 tbd.
 
 [[LG-4-2]]
-==== LG 4-2: Model Checking
+==== LG 4-2: Type Systems
 tbd.
 
 [[LG-4-3]]
-==== LG 4-3: Proof Assistants
+==== LG 4-3: Model Checking
 tbd.
 
 [[LG-4-4]]
-==== LG 4-4: SMT Solvers
+==== LG 4-4: Proof Assistants
 tbd.
 
-[[LG-4-4]]
-==== LG 4-5: Abstract Interpretation
+[[LG-4-5]]
+==== LG 4-5: SMT Solvers
+tbd.
+
+[[LG-4-6]]
+==== LG 4-6: Abstract Interpretation
 tbd.
 // end::EN[]
 
