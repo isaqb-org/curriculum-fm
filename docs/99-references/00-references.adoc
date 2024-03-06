@@ -8,28 +8,73 @@
 **A**
 
 - [[[Aniculaesei,Aniculaesei et al. 2021]]] Aniculaesei Adina, Vorwald, Andreas, Zhang, Meng, and Rausch, Andreas.
-  Architecture-based hybrid approach to verify safety-critical automotive system functions by combining data-driven and formal methods. 
-  In Cyrille Artho and Rudolf Ramler, editors, 
+  Architecture-based hybrid approach to verify safety-critical automotive system functions by combining data-driven and formal methods.
+  In Cyrille Artho and Rudolf Ramler, editors,
   2021 IEEE International Conference on Software Architecture Companion (ICSA-C), pages 139–148. IEEE, 2021.
 
 - [[[Aniculaesei,Aniculaesei et al. 2018]]] Aniculaesei Adina, Howar, Falk, Denecke, Peer, and Rausch Andreas.
   Automated generation of requirements-based test cases for an
   adaptive cruise control system.
-  In Cyrille Artho and Rudolf Ramler, editors, 
+  In Cyrille Artho and Rudolf Ramler, editors,
   2018 IEEE Workshop on Validation, Analysis and Evolution of Software Tests (VST@SANER), pages 11–15. IEEE, 2018
 
 **B**
+
+- [[[baader,Baader et al. 2012]]] Baader F., Nipkow T. (2012). Term Rewriting
+  and All That. Cambridge University Press.
+  https://doi.org/10.1017/CBO9781139172752
 
 - [[[ball2000,Ball 2000]]] Ball Thomas and Rajamani Sriram:
   Checking Temporal Properties of Software with Boolean Programs,
   Workshop on Advances in Verification, 2000.
 
+
+- [[[barret,Barrett et al. 2018]]] Barrett, C., Tinelli, C. (2018).
+  Satisfiability Modulo Theories. In: Clarke, E., Henzinger, T., Veith, H.,
+  Bloem, R. (eds) Handbook of Model Checking. Springer, Cham.
+  https://doi.org/10.1007/978-3-319-10575-8_11
+
+- [[[biere,Biere et al. 2021]]] Biere, A., Heule, M., Van Maaren, H., Walsh, T.
+  (2021). Handbook of Satisfiability (Second Edition): Volume 336 Frontiers in
+  Artificial Intelligence and Applications. IOS Press.
+
+
+- [[[boca,Boca et al. 2009]]] Boca P., Bowen J. P., Siddiqi J. (2009). Formal
+  Methods: State of the Art and New Directions. Springer London.
+  https://doi.org/10.1007/978-1-84882-736-3
+
+- [[[brinkman,Brinkman et al. 2018]]] Brinkmann, R., Kelf, D. (2018). Formal
+  Verification—The Industrial Perspective. In: Drechsler, R. (eds) Formal System
+  Verification. Springer, Cham. https://doi.org/10.1007/978-3-319-57685-5_5
+
 **C**
 
-- [[[clarke2018,Clarke et al. 2018]]] Clarke, Edmund M., Henzinger, Thomas A, and Veith, Helmut. 
+- [[[clarke2018,Clarke et al. 2018]]] Clarke, Edmund M., Henzinger, Thomas A, and Veith, Helmut.
   Introduction to model checking.
   In Edmund M. Clarke, Thomas A. Henzinger, Helmut Veith, and Roderick Bloem, editors,
   Handbook of Model Checking, pages 1–26. Springer International Publishing, Cham, 2018.
+
+**D**
+
+- [[[drechsler,Drechsler 2018]]] Drechsler, R. (2018). Formal System
+  Verification - State-of the-Art and Future Trends. Springer Cham.
+  https://doi.org/10.1007/978-3-319-57685-5
+
+**E**
+
+- [[[edmund,Edmund et al. 2018]]] Edmund M. Clarke, Thomas A. Henzinger, Helmut
+  Veith, Roderick Bloem (2018). Handbook of Model Checking. Springer, Cham.
+  https://doi.org/10.1007/978-3-319-10575-8
+
+**G**
+
+- [[[gnesi,Gnesi et al. 2013]]] Gnesi, S. Margaria, T. (2013). Formal Methods
+  for Industrial Critical Systems: A Survey of Applications. IEEE.
+  https://doi.org/10.1002/9781118459898
+- [[[grumberg,Grumberg et al. 2012]]] Grumberg, O., Nipkow, T., Hauptmann, B.
+  (2012). Software Safety and Security: Tools for Analysis and Verification:
+  Volume 33 of NATO Science for Peace and Security Series - D: Information and
+  Communication Security. IOS Press.
 
 **K**
 
@@ -40,11 +85,37 @@
   seL4: formal verification of an OS kernel.
   SOSP '09: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles. October 2009, pages 207–220.
 
+
+- [[[kroening,Kroening et al. 2017]]] Kroening D., Strichman O. (2017): Decision
+  Procedures - An Algorithmic Point of View. Springer Berlin, Heidelberg.
+  https://doi.org/10.1007/978-3-662-50497-0
+
+- [[[kuperA,Kuper 2017 a]]] Kuper, L. (2017): Proving that safety-critical
+  neural networks do what they’re supposed to: where we are, where we’re going
+  (part 1 of 2).
+  https://decomposition.al/blog/2017/05/30/proving-that-safety-critical-neural-networks-do-what-theyre-supposed-to-where-we-are-where-were-going-part-1-of-2/
+
+- [[[kuperB,Kuper 2017 b]]] Kuper, L. (2017): Proving that safety-critical
+  neural networks do what they’re supposed to: where we are, where we’re going
+  (part 2 of 2).
+  https://decomposition.al/blog/2017/05/31/proving-that-safety-critical-neural-networks-do-what-theyre-supposed-to-where-we-are-where-were-going-part-2-of-2/
+
 **L**
 
 - [[[leroy2009,Leroy 2009]]] Xavier Leroy: Formal verification of a
   realistic compiler,
   Communications of the ACM 52(7) 2009, pages 107--115.
+
+**M**
+
+- [[[marques,Marques-Silva et al. 2018]]] Marques-Silva J., Malik S. (2018).
+  Propositional SAT Solving. In: Clarke, E., Henzinger, T., Veith, H., Bloem, R.
+  (eds) Handbook of Model Checking. Springer, Cham.
+  https://doi.org/10.1007/978-3-319-10575-8_9
+
+- [[[merz, Merz et al. 2008]]] Merz S., Navet N. (2008). Modeling and
+  Verification of Real‐Time Systems: Formalisms and Software Tools. ISTE Ltd.
+  https://doi.org/10.1002/9780470611012
 
 **N**
 
