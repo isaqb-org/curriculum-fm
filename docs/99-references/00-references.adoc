@@ -7,12 +7,12 @@
 
 **A**
 
-- [[[Aniculaesei,Aniculaesei et al. 2021]]] Aniculaesei Adina, Vorwald, Andreas, Zhang, Meng, and Rausch, Andreas.
+- [[[Aniculaesei2021,Aniculaesei et al. 2021]]] Aniculaesei Adina, Vorwald, Andreas, Zhang, Meng, and Rausch, Andreas.
   Architecture-based hybrid approach to verify safety-critical automotive system functions by combining data-driven and formal methods.
   In Cyrille Artho and Rudolf Ramler, editors,
   2021 IEEE International Conference on Software Architecture Companion (ICSA-C), pages 139–148. IEEE, 2021.
 
-- [[[Aniculaesei,Aniculaesei et al. 2018]]] Aniculaesei Adina, Howar, Falk, Denecke, Peer, and Rausch Andreas.
+- [[[Aniculaesei2018,Aniculaesei et al. 2018]]] Aniculaesei Adina, Howar, Falk, Denecke, Peer, and Rausch Andreas.
   Automated generation of requirements-based test cases for an
   adaptive cruise control system.
   In Cyrille Artho and Rudolf Ramler, editors,
@@ -39,11 +39,11 @@
   Artificial Intelligence and Applications. IOS Press.
 
 
-- [[[boca,Boca et al. 2009]]] Boca P., Bowen J. P., Siddiqi J. (2009). Formal
+- [[[boca2009,Boca et al. 2009]]] Boca P., Bowen J. P., Siddiqi J. (2009). Formal
   Methods: State of the Art and New Directions. Springer London.
   https://doi.org/10.1007/978-1-84882-736-3
 
-- [[[brinkman,Brinkmann et al. 2018]]] Brinkmann, R., Kelf, D. (2018). Formal
+- [[[brinkman2018,Brinkmann et al. 2018]]] Brinkmann, R., Kelf, D. (2018). Formal
   Verification—The Industrial Perspective. In: Drechsler, R. (eds) Formal System
   Verification. Springer, Cham. https://doi.org/10.1007/978-3-319-57685-5_5
 
@@ -59,19 +59,19 @@
 
 **D**
 
-- [[[drechsler,Drechsler 2018]]] Drechsler, R. (2018). Formal System
+- [[[drechsler2018,Drechsler 2018]]] Drechsler, R. (2018). Formal System
   Verification - State-of the-Art and Future Trends. Springer Cham.
   https://doi.org/10.1007/978-3-319-57685-5
 
 **E**
 
-- [[[edmund,Edmund et al. 2018]]] Edmund M. Clarke, Thomas A. Henzinger, Helmut
+- [[[clarke2018,Edmund et al. 2018]]] Edmund M. Clarke, Thomas A. Henzinger, Helmut
   Veith, Roderick Bloem (2018). Handbook of Model Checking. Springer, Cham.
   https://doi.org/10.1007/978-3-319-10575-8
 
 **G**
 
-- [[[gnesi,Gnesi et al. 2013]]] Gnesi, S. Margaria, T. (2013). Formal Methods
+- [[[gnesi2013,Gnesi et al. 2013]]] Gnesi, S. Margaria, T. (2013). Formal Methods
   for Industrial Critical Systems: A Survey of Applications. IEEE.
   https://doi.org/10.1002/9781118459898
 - [[[grumberg,Grumberg et al. 2012]]] Grumberg, O., Nipkow, T., Hauptmann, B.
@@ -109,6 +109,10 @@
   Systems: The TLA+ Language and Tools for Hardware and Software
   Engineers.  Addison-Wesley.
 
+- [[[lehman1980,Lehman 1980]]] Meir Lehman (1980).  Programs, Life
+  Cycles, and Laws of Software Evoluation.  Proceedings of the IEEE,
+  Volume: 68, Issue: 9, September 1980.
+
 - [[[leroy2009,Leroy 2009]]] Xavier Leroy: Formal verification of a
   realistic compiler,
   Communications of the ACM 52(7) 2009, pages 107--115.
@@ -120,7 +124,7 @@
   (eds) Handbook of Model Checking. Springer, Cham.
   https://doi.org/10.1007/978-3-319-10575-8_9
 
-- [[[merz, Merz et al. 2008]]] Merz S., Navet N. (2008). Modeling and
+- [[[merz2008, Merz et al. 2008]]] Merz S., Navet N. (2008). Modeling and
   Verification of Real‐Time Systems: Formalisms and Software Tools. ISTE Ltd.
   https://doi.org/10.1002/9780470611012
 
