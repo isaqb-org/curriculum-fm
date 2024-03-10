@@ -43,11 +43,14 @@
   Methods: State of the Art and New Directions. Springer London.
   https://doi.org/10.1007/978-1-84882-736-3
 
-- [[[brinkman,Brinkman et al. 2018]]] Brinkmann, R., Kelf, D. (2018). Formal
+- [[[brinkman,Brinkmann et al. 2018]]] Brinkmann, R., Kelf, D. (2018). Formal
   Verification—The Industrial Perspective. In: Drechsler, R. (eds) Formal System
   Verification. Springer, Cham. https://doi.org/10.1007/978-3-319-57685-5_5
 
 **C**
+
+- [[[chlipala,Chlipala ]]] Adam Chlipala (2022).  Certified
+  Programming with Dependent Types.  MIT Press, 2022.
 
 - [[[clarke2018,Clarke et al. 2018]]] Clarke, Edmund M., Henzinger, Thomas A, and Veith, Helmut.
   Introduction to model checking.
@@ -102,6 +105,10 @@
 
 **L**
 
+- [[[lamport2022,Lamport 2022]]] Leslie Lamport (2022).  Specifying
+  Systems: The TLA+ Language and Tools for Hardware and Software
+  Engineers.  Addison-Wesley.
+
 - [[[leroy2009,Leroy 2009]]] Xavier Leroy: Formal verification of a
   realistic compiler,
   Communications of the ACM 52(7) 2009, pages 107--115.
@@ -122,3 +129,8 @@
 - [[[nipkow2018,Nipkow 2022]]] Nipkow, Tobias, editor.
   Isabelle/HOL: A Proof Assistant for Higher-Order Logic,
   volume 2283 of Springer eBook Collection Computer Science. Springer-Verlag Berlin Heidelberg, Berlin, Heidelberg, 2002.
+
+**W**
+
+- [[[wayne2018,Wayne 2018]]] Hillel Wayne (2018).  Practical TLA+:
+  Planning Driven Development.  Apress.
