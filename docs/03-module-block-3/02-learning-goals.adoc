@@ -20,12 +20,45 @@ tbd.
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: TBD
-tbd.
+==== LG 3-1: Applicability
 
-[[LG-3-2]]
-==== LG 3-2: TBD
-tbd.
+Architects know that not all parts of a typical software system are
+susceptible to formal methods.  Architects know taxonomies like the
+SPE model that classify software according to their degree of precise
+specification, and to use the taxomonies for identifying the parts of
+a software system amenable to formal methods.
+
+[[LG-3-3]]
+==== LG 3-1: Relevant Qualities
+
+Architects are aware of the qualities that typically indicate the use
+of formal methods, such as reliability, safety, and security.
+
+[[LG-3-4]]
+==== LG 3-1: Relevance Specification
+
+Architects know that the successful application of formal methods
+depends on the precise specification of the properties they require
+the software system to exhibit.
+
+[[LG-3-5]]
+==== LG 3-1: Tradeoffs
+
+Architects are familiar with the tradeoffs inherent in the choice of a particular formal method, in particular with respect to expressiveness of its specification formalism, effort needed to assist the formal method in establishing the desired result, and the qualificiations required of those who apply the method.
+
+[[LG-3-6]]
+==== LG 3-1: Gradual Introduction
+
+Architects are familiar with techniques for gradually introducing formal methods into a software project such as adding static typing or property-based testing.
+
+[[LG-3-7]]
+==== LG 3-1: Appropriate Selection of Methods
+
+Architects can choose an appropriate formal method depending on the
+form of the specification. Such as: use (probalistic) model checking
+for specifications of state machines, use SMT/SAT solving for
+constraint systems, abstract interpretation for technical properties
+of the code, and proof assistants for more general specifications.
 // end::EN[]
 
 [NOTE]

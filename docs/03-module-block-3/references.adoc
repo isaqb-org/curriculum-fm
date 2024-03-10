@@ -1,6 +1,10 @@
 === {references}
 
-<<hargis>>, <<starke>>
+<<Aniculaesei2018>>,
+<<Aniculaesei2021>>, <<ball2000>>, <<boca2009>>, <<brinkman2018>>,
+<<drechsler2018>>, <<gnesi2013>>, <<klein2009>>, <<klein2009>>,
+<<kuperA>>, <<kuperB>>, <<lehman1980>>, 
+<<leroy2009>>, <<merz2008>>
 
 
 [NOTE]
