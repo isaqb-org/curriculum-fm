@@ -28,7 +28,6 @@
   Checking Temporal Properties of Software with Boolean Programs,
   Workshop on Advances in Verification, 2000.
 
-
 - [[[barret,Barrett et al. 2018]]] Barrett, C., Tinelli, C. (2018).
   Satisfiability Modulo Theories. In: Clarke, E., Henzinger, T., Veith, H.,
   Bloem, R. (eds) Handbook of Model Checking. Springer, Cham.
@@ -37,7 +36,6 @@
 - [[[biere,Biere et al. 2021]]] Biere, A., Heule, M., Van Maaren, H., Walsh, T.
   (2021). Handbook of Satisfiability (Second Edition): Volume 336 Frontiers in
   Artificial Intelligence and Applications. IOS Press.
-
 
 - [[[boca2009,Boca et al. 2009]]] Boca P., Bowen J. P., Siddiqi J. (2009). Formal
   Methods: State of the Art and New Directions. Springer London.
@@ -62,11 +60,29 @@
   Verification - State-of the-Art and Future Trends. Springer Cham.
   https://doi.org/10.1007/978-3-319-57685-5
 
+**E**
+
+- [[[ebbinghaus2021,Ebbinghaus et al. 2021]]] Ebbinghaus Heinz-Dieter, Flum
+  Jörg, Thomas Wolfgang (2021). Mathematical Logic. Springer.
+  https://doi.org/10.1007/978-3-030-73839-6
+
+- [[[enderton2001,Enderton 2001]]] Enderton, Herbert B. (2001). A Mathematical
+  Introduction to Logic. Academic Press.
+
+**F**
+
+- [[[fitting1996,Fitting 1996]]] Fitting, Melvin (1996). First-Order Logic and
+  Automated Theorem Proving. Springer. https://doi.org/10.1007/978-1-4612-2360-3
+
 **G**
+
+- [[[gallier2015,Gallier 2015]]] Gallier Jean H. (2015). Logic for Computer
+  Science. Dover Publications.
 
 - [[[gnesi2013,Gnesi et al. 2013]]] Gnesi, S. Margaria, T. (2013). Formal Methods
   for Industrial Critical Systems: A Survey of Applications. IEEE.
   https://doi.org/10.1002/9781118459898
+
 - [[[grumberg,Grumberg et al. 2012]]] Grumberg, O., Nipkow, T., Hauptmann, B.
   (2012). Software Safety and Security: Tools for Analysis and Verification:
   Volume 33 of NATO Science for Peace and Security Series - D: Information and
