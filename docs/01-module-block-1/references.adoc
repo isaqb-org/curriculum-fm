@@ -1,6 +1,6 @@
 === {references}
 
-
+<<schoening2008>>, <<troelstra2012>>, <<harrison2009>>
 
 
 [NOTE]

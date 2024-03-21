@@ -49,25 +49,18 @@
 
 **C**
 
-- [[[chlipala,Chlipala ]]] Adam Chlipala (2022).  Certified
+- [[[chlipala,Chlipala]]] Adam Chlipala (2022).  Certified
   Programming with Dependent Types.  MIT Press, 2022.
 
-- [[[clarke2018,Clarke et al. 2018]]] Clarke, Edmund M., Henzinger, Thomas A, and Veith, Helmut.
-  Introduction to model checking.
-  In Edmund M. Clarke, Thomas A. Henzinger, Helmut Veith, and Roderick Bloem, editors,
-  Handbook of Model Checking, pages 1–26. Springer International Publishing, Cham, 2018.
+- [[[clarke2018,Clarke et al. 2018]]] Edmund M. Clarke, Thomas A. Henzinger, Helmut
+  Veith, Roderick Bloem (2018). Handbook of Model Checking. Springer, Cham.
+  https://doi.org/10.1007/978-3-319-10575-8
 
 **D**
 
 - [[[drechsler2018,Drechsler 2018]]] Drechsler, R. (2018). Formal System
   Verification - State-of the-Art and Future Trends. Springer Cham.
   https://doi.org/10.1007/978-3-319-57685-5
-
-**E**
-
-- [[[clarke2018,Edmund et al. 2018]]] Edmund M. Clarke, Thomas A. Henzinger, Helmut
-  Veith, Roderick Bloem (2018). Handbook of Model Checking. Springer, Cham.
-  https://doi.org/10.1007/978-3-319-10575-8
 
 **G**
 
@@ -79,6 +72,12 @@
   Volume 33 of NATO Science for Peace and Security Series - D: Information and
   Communication Security. IOS Press.
 
+**H**
+
+- [[[harrison2009,Harrison 2009]]] Harrison, John (2009). Handbook of Practical
+  Logic and Automated Reasoning. Cambridge University Press.
+  https://doi.org/10.1017/CBO9780511576430
+
 **K**
 
 - [[[klein2009, Klein et al. 2009]]] Klein, Gerwin, Elphinstone,
@@ -87,7 +86,6 @@
   Michael, Sewell, Thomas, Tuch, Harvey and Winwood, Simon.
   seL4: formal verification of an OS kernel.
   SOSP '09: Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles. October 2009, pages 207–220.
-
 
 - [[[kroening,Kroening et al. 2017]]] Kroening D., Strichman O. (2017): Decision
   Procedures - An Algorithmic Point of View. Springer Berlin, Heidelberg.
@@ -133,6 +131,18 @@
 - [[[nipkow2018,Nipkow 2022]]] Nipkow, Tobias, editor.
   Isabelle/HOL: A Proof Assistant for Higher-Order Logic,
   volume 2283 of Springer eBook Collection Computer Science. Springer-Verlag Berlin Heidelberg, Berlin, Heidelberg, 2002.
+
+**S**
+
+- [[[schoening2008,Schöning 2008]]] Schöning, Uwe (2008). Logic for Computer
+  Scientists. Birkhäuser Boston.
+  https://doi.org/10.1007/978-0-8176-4763-6
+
+**T**
+
+- [[[troelstra2012,Troelstra and Schwichtenberg 2012]]] Troelstra A. S.,
+  Schwichtenberg H. (2012). Basic Proof Theory. Cambridge University Press.
+  https://doi.org/10.1017/CBO9781139168717
 
 **W**
 
