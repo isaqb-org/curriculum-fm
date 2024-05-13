@@ -19,16 +19,39 @@ tbd.
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: TBD
-tbd.
+==== LG 2-1: Notions of specification
+
+Participants know different notions of specification, specifically
+examples, properties, formal, and mechanized.  Thexy understand that
+specification may pertain to different kinds of components, such as
+functions, data types, algorithms, and systems.  They understand that
+specifications may pertain to different qualities, such as
+functionality, performance effiicency, security, and safety.
 
 [[LG-2-2]]
-==== LG 2-2: TBD
-tbd.
-// end::EN[]
+==== LG 2-2: Formal Specifications
 
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
+Participants understand that applying formal methods ​requires formal
+specifications.  They understand, that formal specifications involve
+universal quantifiers rather than just examoples for desired behavior.
+Participants understand the difference between functional properties
+that admit only one output per input, and relational properties, and
+relational properties that admit multiple outputs per input.
+
+[[LG-2-3]]
+==== LG 2-3: Specification Languages
+
+Participants know that many different specification languages exist,
+among them some with tool support.  Participants are familiar with at
+least three such languages, and their distinguishing properties.
+
+[[LG-2-4]]
+==== LG 2-4: Refinement
+
+Participants understand the notion of refinement.  They understand
+that it may be helpful to develop a separate model between
+specification and implementation, which satisfies the specification
+and is equivalent to the implementation.
+
+// end::EN[]
 
