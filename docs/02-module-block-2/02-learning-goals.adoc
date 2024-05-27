@@ -22,7 +22,7 @@ tbd.
 ==== LG 2-1: Notions of specification
 
 Participants know different notions of specification, specifically
-examples, properties, formal, and mechanized.  Thexy understand that
+examples, properties, formal, and mechanized.  They understand that
 specification may pertain to different kinds of components, such as
 functions, data types, algorithms, and systems.  They understand that
 specifications may pertain to different qualities, such as
@@ -31,12 +31,12 @@ functionality, performance effiicency, security, and safety.
 [[LG-2-2]]
 ==== LG 2-2: Formal Specifications
 
-Participants understand that applying formal methods ​requires formal
-specifications.  They understand, that formal specifications involve
-universal quantifiers rather than just examoples for desired behavior.
+Participants understand that applying formal methods requires formal
+specifications.  They understand that formal specifications involve
+universal quantifiers rather than just examples for desired behavior.
 Participants understand the difference between functional properties
-that admit only one output per input, and relational properties, and
-relational properties that admit multiple outputs per input.
+that admit only one output per input, and relational properties that
+admit multiple outputs per input.
 
 [[LG-2-3]]
 ==== LG 2-3: Specification Languages

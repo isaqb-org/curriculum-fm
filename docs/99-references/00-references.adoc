@@ -154,17 +154,13 @@
   https://doi.org/10.1007/978-3-319-10575-8_9
 
 - [[[merz2008, Merz et al. 2008]]] Merz S., Navet N. (2008). Modeling and
-  2Verification of Real‐Time Systems: Formalisms and Software Tools. ISTE Ltd.
+  Verification of Real‐Time Systems: Formalisms and Software Tools. ISTE Ltd.
   https://doi.org/10.1002/9780470611012
 
 - [[[milner1973, Milner 1973]]] Milner, R. (1973) Models of LCF.
   Stanford Artifical Intelligence Laboratory Memo AIM-186.
-  
-**N**
 
-- [[[nipkow2002,Nipkow 2002]]] Nipkow, Tobias, editor.
-  Isabelle/HOL: A Proof Assistant for Higher-Order Logic,
-  volume 2283 of Springer eBook Collection Computer Science. Springer-Verlag Berlin Heidelberg, Berlin, Heidelberg, 2002.
+**N**
 
 - [[[nipkow2014, Nipkow 2014]]] Nipkow, T., Klein, G. (2014) Concrete
   Semantics with Isabelle/HOL.  Springer.
