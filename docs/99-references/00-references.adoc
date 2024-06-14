@@ -41,6 +41,11 @@
   Methods: State of the Art and New Directions. Springer London.
   https://doi.org/10.1007/978-1-84882-736-3
 
+- [[[bove2009, Bove et al. 2009]]] Ana Bove, Peter Dybjer and Ulf
+  Norell (2009) . A Brief Overview of Agda - A Functional Language
+  with Dependent Types. International Conference on Theorem Proving in
+  Higher Order Logics.
+
 - [[[brinkman2018,Brinkmann et al. 2018]]] Brinkmann, R., Kelf, D. (2018). Formal
   Verification—The Industrial Perspective. In: Drechsler, R. (eds) Formal System
   Verification. Springer, Cham. https://doi.org/10.1007/978-3-319-57685-5_5
@@ -189,6 +194,9 @@
 - [[[schoening2008,Schöning 2008]]] Schöning, Uwe (2008). Logic for Computer
   Scientists. Birkhäuser Boston.
   https://doi.org/10.1007/978-0-8176-4763-6
+
+- [[[stump2016,Stump 2016]]] Aaron Stump (2016). Verified Functional
+  Programming in Agda. ACM.
 
 **T**
 
