@@ -112,6 +112,11 @@
 
 **K**
 
+- [[[kaufmann2000-approach, Kaufmann et al. 2000]]] Matt Kaufmann,
+  Panagiotis Manolios, and J Strother Moore (2000). Computer-Aided
+  Reasoning: An Approach. Kluwer Academic Publishers.
+  https://www.cs.utexas.edu/users/moore/publications/acl2-books/car/index.html
+  
 - [[[klein2009, Klein et al. 2009]]] Klein, Gerwin, Elphinstone,
   Kevin, Heiser, Gernot, Andronick, June, Cock, David, Derrin, Philip,
   Elkaduwe, Dhammika, Engelhardt, Kai, Kolanski, Rafal, Norrish,
