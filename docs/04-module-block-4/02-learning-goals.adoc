@@ -21,7 +21,11 @@ tbd.
 // tag::EN[]
 [[LG-4-1]]
 ==== LG 4-1: Property-Based Testing
-tbd.
+
+Architects understand the concept of property-based testing, can
+identify for which properties it is amenable, and guide the
+implementation of property-based testing in a software project.
+
 
 [[LG-4-2]]
 ==== LG 4-2: Type Systems

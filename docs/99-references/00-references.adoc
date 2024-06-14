@@ -103,6 +103,13 @@
 - [[[iso24765, ISO 24765]]] ISO/IEC/IEEE 24765:2017.  Systems and
   software engineering.
 
+**H**
+
+- [[[claessen2000,Claessen and Hughes 2002]]] Koen Claessen, John
+  Hughes (2000).  QuickCheck: A Lightweight Tool for Random Testing of
+  Haskell Programs. Proceedings of the ACM SIGPLAN International
+  Conference on Functional Programming (ICFP).
+
 **K**
 
 - [[[klein2009, Klein et al. 2009]]] Klein, Gerwin, Elphinstone,
