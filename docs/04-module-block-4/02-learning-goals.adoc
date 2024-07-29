@@ -30,7 +30,7 @@ implementation of property-based testing in a software project.
 [[LG-4-2]]
 ==== LG 4-2: Type Systems
 
-Architects that type systems can express and ensure properties of
+Architects understand that type systems can express and ensure properties of
 software system.  They are aware of the expressive power of different
 type systems, and are familiar with the concept of dependent types.
 They can choose languages and tools to exploit the capabilities of a
