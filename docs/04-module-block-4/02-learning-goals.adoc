@@ -56,7 +56,15 @@ tbd.
 
 [[LG-4-6]]
 ==== LG 4-6: Abstract Interpretation
-tbd.
+
+Architects understand that the possible dynamic behavior of programs
+can be soundly predicted using static analysis.  They understand
+that the abstract interpretation technique for static analysis
+operates by executing the program over domains that are abstracted
+from the domains of the regularly-running program.  They further know
+the kinds of information that abstract interpretation might yield,
+such as pointer aliasing, resource usage, control and data flow.
+
 // end::EN[]
 
 [NOTE]

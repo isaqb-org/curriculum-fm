@@ -59,6 +59,9 @@
   Veith, Roderick Bloem (2018). Handbook of Model Checking. Springer, Cham.
   https://doi.org/10.1007/978-3-319-10575-8
 
+- [[[cousot2021, Cousot 2021]]] Patrick Cousot.  Principles of Abstract
+  Interpretation.  MIT Press, 2021.
+
 **D**
 
 - [[[drechsler2018,Drechsler 2018]]] Drechsler, R. (2018). Formal System
