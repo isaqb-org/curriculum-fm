@@ -46,7 +46,7 @@ tbd.
 Architects understand the mode of operation of proof assistants.  They
 are familar with at least one proof assistants.  Architects understand
 how to structure a software system to make it amenable to the use of
-proof assistants.  They further understand understand how they can
+proof assistants.  They further understand how they can
 translate requirements on a software projects into proof obligations
 for a proof assistant.
 
