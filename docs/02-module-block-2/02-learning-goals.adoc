@@ -21,19 +21,38 @@ tbd.
 [[LG-2-1]]
 ==== LG 2-1: Notions of specification
 
-Participants know different notions of specification, specifically
-examples, properties, formal, and mechanized.  They understand that
-specification may pertain to different kinds of components, such as
-functions, data types, algorithms, and systems.  They understand that
-specifications may pertain to different qualities, such as
-functionality, performance effiicency, security, and safety.
+Participants know different notions of specification, specifically:
+
+* examples
+* properties
+* formal
+* mechanized
+
+They understand that specification may pertain to different kinds of
+components, such as:
+
+* nctions
+* data types
+* lgorithms
+* systems
+
+They understand that specifications may pertain to different
+qualities, such as:
+
+* functionality
+* performance effiicency
+* security
+* safety
 
 [[LG-2-2]]
 ==== LG 2-2: Formal Specifications
 
 Participants understand that applying formal methods requires formal
-specifications.  They understand that formal specifications involve
-universal quantifiers rather than just examples for desired behavior.
+specifications.
+
+They understand that formal specifications involve universal
+quantifiers rather than just examples for desired behavior.
+
 Participants understand the difference between functional properties
 that admit only one output per input, and relational properties that
 admit multiple outputs per input.
@@ -42,16 +61,19 @@ admit multiple outputs per input.
 ==== LG 2-3: Specification Languages
 
 Participants know that many different specification languages exist,
-among them some with tool support.  Participants are familiar with at
-least three such languages, and their distinguishing properties.
+among them some with tool support.
+
+Participants are familiar with at least three such languages, and
+their distinguishing properties.
 
 [[LG-2-4]]
 ==== LG 2-4: Refinement
 
-Participants understand the notion of refinement.  They understand
-that it may be helpful to develop a separate model between
-specification and implementation, which satisfies the specification
-and is equivalent to the implementation.
+Participants understand the notion of refinement.
+
+They understand that it may be helpful to develop a separate model
+between specification and implementation, which satisfies the
+specification and is equivalent to the implementation.
 
 // end::EN[]
 
