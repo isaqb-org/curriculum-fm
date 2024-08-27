@@ -75,7 +75,17 @@ tbd.
 
 [[LG-4-5]]
 ==== LG 4-5: SMT Solvers
-tbd.
+
+* Understand the concept of satisfiability modulo theories (SMT) and
+  its application and constraints as a tool for checking properties of
+  software systems.
+
+* Can identify which properties can be checked with the help of SMT
+  solvers.
+
+* Guide the implementation of SMT-assisted computations in a software
+  project.
+
 
 [[LG-4-6]]
 ==== LG 4-6: Abstract Interpretation
