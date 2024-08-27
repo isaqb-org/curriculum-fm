@@ -22,42 +22,56 @@ tbd.
 [[LG-4-1]]
 ==== LG 4-1: Property-Based Testing
 
-Architects understand the concept of property-based testing, can
-identify for which properties it is amenable, and guide the
-implementation of property-based testing in a software project.
+* Understand the concept of property-based testing, can
+  identify for which properties it is amenable, and guide the
+  implementation of property-based testing in a software project.
 
 
 [[LG-4-2]]
 ==== LG 4-2: Type Systems
 
-Architects understand that type systems can express and ensure properties of
-software system.  They are aware of the expressive power of different
-type systems, and are familiar with the concept of dependent types.
-They can choose languages and tools to exploit the capabilities of a
-type system in a software system.
+* Understand that type systems can express and ensure properties of
+  software system.
+
+* Know of the expressive power of different type systems.
+
+* Are familiar with the concept of dependent types.
+
+* Can choose languages and tools to exploit the capabilities of a type system in
+  a software system.
 
 [[LG-4-3]]
 ==== LG 4-3: Model Checking
 
-Architects understand that Model Checking describes methods to check whether a
-logic formula is satisfied by a given model. They understand that a model is
-represented explicit, for example as finite automata, or symbolic, for example
-when using Binary Decision Diagrams (BDD). They further understand that various
-kinds of logic can be used, like Computation Tree Logic (CTL) or  Propositional
-Linear Temporal Logic (PLTL). Architects know about the consequences of the
-used representation and logic with respect to complexity (e.g. space and time
-costs, state explosion, combinatorial explosions), usability and their
-limitations.
+* Understand that Model Checking describes methods to check whether a
+  logic formula is satisfied by a given model.
+
+* Understand that a model is represented explicit, for example as finite automata, or symbolic, for example
+  when using Binary Decision Diagrams (BDD).
+
+* Understand that various kinds of logic can be used, like:
+** Computation Tree Logic (CTL)
+** Propositional Linear Temporal Logic (PLTL).
+
+* Know about the consequences of the used
+  representation and logic with respect to:
+** complexity (e.g. space and time costs, state explosion,
+   combinatorial explosions)
+** usability
+** limitations
 
 [[LG-4-4]]
 ==== LG 4-4: Proof Assistants
 
-Architects understand the mode of operation of proof assistants.  They
-are familar with at least one proof assistants.  Architects understand
-how to structure a software system to make it amenable to the use of
-proof assistants.  They further understand how they can
-translate requirements on a software projects into proof obligations
-for a proof assistant.
+* Understand the mode of operation of proof assistants.
+
+* Know at least one proof assistant.
+
+* Understand how to structure a software system to make it amenable to the use of
+  proof assistants.
+
+* Understand how they can translate requirements on a software
+  projects into proof obligations for a proof assistant.
 
 [[LG-4-5]]
 ==== LG 4-5: SMT Solvers
@@ -66,17 +80,15 @@ tbd.
 [[LG-4-6]]
 ==== LG 4-6: Abstract Interpretation
 
-Architects understand that the possible dynamic behavior of programs
-can be soundly predicted using static analysis.  They understand
-that the abstract interpretation technique for static analysis
-operates by executing the program over domains that are abstracted
-from the domains of the regularly-running program.  They further know
-the kinds of information that abstract interpretation might yield,
-such as pointer aliasing, resource usage, control and data flow.
+* Understand that the possible dynamic behavior of programs can be
+  soundly predicted using static analysis.
+
+* Understand hat the abstract interpretation technique for static
+  analysis operates by executing the program over domains that are
+  abstracted from the domains of the regularly-running program.
+
+* Know the kinds of information that abstract interpretation might
+  yield, such as pointer aliasing, resource usage, control and data
+  flow.
 
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
