@@ -65,12 +65,14 @@ method, in particular with respect to:
 ==== LG 3-6: Appropriate Selection of Methods
 
 Can choose an appropriate formal method depending on the
-form of the specification. Such as:
+form of the specification such as:
 
 * use (probalistic) model checking for specifications of state
   machines
 * use SMT/SAT solving for constraint systems
 * abstract interpretation for technical properties of the code
 * proof assistants for more general specifications
+
+(See section <<Tools>>.)
 
 // end::EN[]
