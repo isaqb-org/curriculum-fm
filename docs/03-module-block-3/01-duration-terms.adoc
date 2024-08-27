@@ -15,16 +15,7 @@ Begriff 1, Begriff 2, Begriff 3
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+
+SPE model, expressiveness, static typing, property-based testing
 
 // end::EN[]
-
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
