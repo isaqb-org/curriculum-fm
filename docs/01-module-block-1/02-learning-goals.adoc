@@ -42,7 +42,6 @@ Know the basic structure of predicate/first-order logic:
 ** structures comprising universes and interpretations
 ** coincidence of structures
 ** extension with equality
-** Herbrand universes
 * semi-decidability of predicate logic
 
 [[LG-1-3]]
