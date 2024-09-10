@@ -64,7 +64,7 @@ method, in particular with respect to:
 [[LG-3-6]]
 ==== LG 3-6: Appropriate Selection of Methods
 
-Can choose an appropriate formal method depending on the
+Be able to choose an appropriate formal method depending on the
 form of the specification such as:
 
 * use (probalistic) model checking for specifications of state

@@ -31,9 +31,9 @@ tbd.
 * Understand that specification may pertain to different kinds of
   components, such as:
 
-** nctions
+** functions
 ** data types
-** lgorithms
+** algorithms
 ** systems
 
 * Understand that specifications may pertain to different
@@ -63,7 +63,7 @@ tbd.
 * Know that many different specification languages exist,
   among them some with tool support.
 
-* Know with at least three such languages, and
+* Know that at least three such languages, and
   their distinguishing properties.
 
 [[LG-2-4]]

@@ -33,6 +33,11 @@
   Bloem, R. (eds) Handbook of Model Checking. Springer, Cham.
   https://doi.org/10.1007/978-3-319-10575-8_11
 
+- [[[berard,Berard et al. 2001]]] Bérard, B., Bidoit, M., Finkel, A.,
+  Laroussinie, F., Petit, A., Petrucci, L., Schnoebelen, P.,
+  McKenzie, P. (2001): Systems and Software Verification -
+  Model-Checking Techniques and Tools. Springer.  
+
 - [[[biere,Biere et al. 2021]]] Biere, A., Heule, M., Van Maaren, H., Walsh, T.
   (2021). Handbook of Satisfiability (Second Edition): Volume 336 Frontiers in
   Artificial Intelligence and Applications. IOS Press.

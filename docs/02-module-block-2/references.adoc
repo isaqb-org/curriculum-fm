@@ -1,4 +1,4 @@
 === {references}
 
-<<iso24765>>, <<iso24765>>, <<knuth1997>>, <<milner1973>>, <<nipkow2014>>, <<paulson1993>>
+<<iso24765>>, <<knuth1997>>, <<milner1973>>, <<nipkow2014>>, <<paulson1993>>
 

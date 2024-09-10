@@ -35,7 +35,7 @@ tbd.
 
 * Know of the expressive power of different type systems.
 
-* Are familiar with the concept of dependent types.
+* Know the concept of dependent types.
 
 * Can choose languages and tools to exploit the capabilities of a type system in
   a software system.
@@ -93,7 +93,7 @@ tbd.
 * Understand that the possible dynamic behavior of programs can be
   soundly predicted using static analysis.
 
-* Understand hat the abstract interpretation technique for static
+* Understand that the abstract interpretation technique for static
   analysis operates by executing the program over domains that are
   abstracted from the domains of the regularly-running program.
 

@@ -15,7 +15,7 @@ Begriff 1, Begriff 2, Begriff 3
 |===
 
 === Terms and Principles
-property-based testing, type system, dependet types, model checking
+property-based testing, type system, dependent types, model checking
 finite automat0on, binary decision diagram (BDD), computation tree
 logic (CTL), propositional linear temporal logic (PLTL), proof
 assistant, SMT solver, abstract interpretation, static analysis
