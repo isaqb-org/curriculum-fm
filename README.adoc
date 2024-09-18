@@ -22,7 +22,8 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-fm.svg["I
 This is <<copyrighted,copyrighted work>>.
 
 == Content
-This repository contains the curriculum Formal Methods
+This repository contains the curriculum Formal Methods.  It is still
+in the early stages of development.
 
 toc::[]
 

@@ -5,49 +5,214 @@
 [bibliography]
 == {references}
 
-// tag::DE[]
-Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
-// end::DE[]
+**A**
 
-// tag::EN[]
-This section contains references that are cited in the curriculum.
-// end::EN[]
+- [[[Aniculaesei2021,Aniculaesei et al. 2021]]] Aniculaesei Adina, Vorwald, Andreas, Zhang, Meng, and Rausch, Andreas.
+  Architecture-based hybrid approach to verify safety-critical automotive system functions by combining data-driven and formal methods.
+  In Cyrille Artho and Rudolf Ramler, editors,
+  2021 IEEE International Conference on Software Architecture Companion (ICSA-C), pages 139–148. IEEE, 2021.
 
-[NOTE]
-====
-Aufbau eines Eintrags-Ankers:
-```
-- [[[label,Text der erscheint]]]
-```
-ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
-
-= = =
-
-Structure of an anchor:
-```
-- [[[label,text that will be shown]]]
-```
-ATTENTION: labels have to be non-numeric.
-====
+- [[[Aniculaesei2018,Aniculaesei et al. 2018]]] Aniculaesei Adina, Howar, Falk, Denecke, Peer, and Rausch Andreas.
+  Automated generation of requirements-based test cases for an
+  adaptive cruise control system.
+  In Cyrille Artho and Rudolf Ramler, editors,
+  2018 IEEE Workshop on Validation, Analysis and Evolution of Software Tests (VST@SANER), pages 11–15. IEEE, 2018
 
 **B**
 
-- [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-- [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
+- [[[baader,Baader et al. 2012]]] Baader F., Nipkow T. (2012). Term Rewriting
+  and All That. Cambridge University Press.
+  https://doi.org/10.1017/CBO9781139172752
+
+- [[[ball2000,Ball 2000]]] Ball Thomas and Rajamani Sriram:
+  Checking Temporal Properties of Software with Boolean Programs,
+  Workshop on Advances in Verification, 2000.
+
+- [[[barret,Barrett et al. 2018]]] Barrett, C., Tinelli, C. (2018).
+  Satisfiability Modulo Theories. In: Clarke, E., Henzinger, T., Veith, H.,
+  Bloem, R. (eds) Handbook of Model Checking. Springer, Cham.
+  https://doi.org/10.1007/978-3-319-10575-8_11
+
+- [[[berard,Berard et al. 2001]]] Bérard, B., Bidoit, M., Finkel, A.,
+  Laroussinie, F., Petit, A., Petrucci, L., Schnoebelen, P.,
+  McKenzie, P. (2001): Systems and Software Verification -
+  Model-Checking Techniques and Tools. Springer.  
+
+- [[[biere,Biere et al. 2021]]] Biere, A., Heule, M., Van Maaren, H., Walsh, T.
+  (2021). Handbook of Satisfiability (Second Edition): Volume 336 Frontiers in
+  Artificial Intelligence and Applications. IOS Press.
+
+- [[[boca2009,Boca et al. 2009]]] Boca P., Bowen J. P., Siddiqi J. (2009). Formal
+  Methods: State of the Art and New Directions. Springer London.
+  https://doi.org/10.1007/978-1-84882-736-3
+
+- [[[bove2009, Bove et al. 2009]]] Ana Bove, Peter Dybjer and Ulf
+  Norell (2009) . A Brief Overview of Agda - A Functional Language
+  with Dependent Types. International Conference on Theorem Proving in
+  Higher Order Logics.
+
+- [[[brinkman2018,Brinkmann et al. 2018]]] Brinkmann, R., Kelf, D. (2018). Formal
+  Verification—The Industrial Perspective. In: Drechsler, R. (eds) Formal System
+  Verification. Springer, Cham. https://doi.org/10.1007/978-3-319-57685-5_5
 
 **C**
 
-- [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
+- [[[chlipala,Chlipala 2022]]] Adam Chlipala (2022).  Certified
+  Programming with Dependent Types.  MIT Press, 2022.
+
+- [[[clarke2018,Clarke et al. 2018]]] Edmund M. Clarke, Thomas A. Henzinger, Helmut
+  Veith, Roderick Bloem (2018). Handbook of Model Checking. Springer, Cham.
+  https://doi.org/10.1007/978-3-319-10575-8
+
+- [[[cousot2021, Cousot 2021]]] Patrick Cousot.  Principles of Abstract
+  Interpretation.  MIT Press, 2021.
+
+**D**
+
+- [[[drechsler2018,Drechsler 2018]]] Drechsler, R. (2018). Formal System
+  Verification - State-of the-Art and Future Trends. Springer Cham.
+  https://doi.org/10.1007/978-3-319-57685-5
+
+**E**
+
+- [[[ebbinghaus2021,Ebbinghaus et al. 2021]]] Ebbinghaus Heinz-Dieter, Flum
+  Jörg, Thomas Wolfgang (2021). Mathematical Logic. Springer.
+  https://doi.org/10.1007/978-3-030-73839-6
+
+- [[[enderton2001,Enderton 2001]]] Enderton, Herbert B. (2001). A Mathematical
+  Introduction to Logic. Academic Press.
+
+**F**
+
+- [[[fitting1996,Fitting 1996]]] Fitting, Melvin (1996). First-Order Logic and
+  Automated Theorem Proving. Springer. https://doi.org/10.1007/978-1-4612-2360-3
+
+**G**
+
+- [[[gallier2015,Gallier 2015]]] Gallier Jean H. (2015). Logic for Computer
+  Science. Dover Publications.
+
+- [[[gnesi2013,Gnesi et al. 2013]]] Gnesi, S. Margaria, T. (2013). Formal Methods
+  for Industrial Critical Systems: A Survey of Applications. IEEE.
+  https://doi.org/10.1002/9781118459898
+
+- [[[grumberg,Grumberg et al. 2012]]] Grumberg, O., Nipkow, T., Hauptmann, B.
+  (2012). Software Safety and Security: Tools for Analysis and Verification:
+  Volume 33 of NATO Science for Peace and Security Series - D: Information and
+  Communication Security. IOS Press.
 
 **H**
 
-- [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
+- [[[harrison2009,Harrison 2009]]] Harrison, John (2009). Handbook of Practical
+  Logic and Automated Reasoning. Cambridge University Press.
+  https://doi.org/10.1017/CBO9780511576430
+
+**I**
+
+- [[[iso13568, ISO 13568]]] ISO/IEC 13568:2002 Information technology
+  — Z formal specification notation — Syntax, type system and
+  semantics.
+
+- [[[iso24765, ISO 24765]]] ISO/IEC/IEEE 24765:2017.  Systems and
+  software engineering.
+
+**H**
+
+- [[[claessen2000,Claessen and Hughes 2002]]] Koen Claessen, John
+  Hughes (2000).  QuickCheck: A Lightweight Tool for Random Testing of
+  Haskell Programs. Proceedings of the ACM SIGPLAN International
+  Conference on Functional Programming (ICFP).
 
 **K**
 
-- [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+- [[[kaufmann2000-approach, Kaufmann et al. 2000]]] Matt Kaufmann,
+  Panagiotis Manolios, and J Strother Moore (2000). Computer-Aided
+  Reasoning: An Approach. Kluwer Academic Publishers.
+  https://www.cs.utexas.edu/users/moore/publications/acl2-books/car/index.html
+  
+- [[[klein2009, Klein et al. 2009]]] Klein, Gerwin, Elphinstone,
+  Kevin, Heiser, Gernot, Andronick, June, Cock, David, Derrin, Philip,
+  Elkaduwe, Dhammika, Engelhardt, Kai, Kolanski, Rafal, Norrish,
+  Michael, Sewell, Thomas, Tuch, Harvey and Winwood, Simon.
+  seL4: formal verification of an OS kernel.
+  SOSP '09: Proceedings of the ACM SIGOPS 22nd symposium on Operating
+  systems principles. October 2009, pages 207–220.
+
+- [[[knuth1997, Knuth 1997]]] Knuth, D. (1997) The Art of Computer
+  Programming, Volume 1: Fundamental Algorithms.  3rd edition.
+  Addison-Wesley.
+  https://www-cs-faculty.stanford.edu/~knuth/taocp.html
+
+- [[[kroening,Kroening et al. 2017]]] Kroening D., Strichman O. (2017): Decision
+  Procedures - An Algorithmic Point of View. Springer Berlin, Heidelberg.
+  https://doi.org/10.1007/978-3-662-50497-0
+
+- [[[kuperA,Kuper 2017 a]]] Kuper, L. (2017): Proving that safety-critical
+  neural networks do what they’re supposed to: where we are, where we’re going
+  (part 1 of 2).
+  https://decomposition.al/blog/2017/05/30/proving-that-safety-critical-neural-networks-do-what-theyre-supposed-to-where-we-are-where-were-going-part-1-of-2/
+
+- [[[kuperB,Kuper 2017 b]]] Kuper, L. (2017): Proving that safety-critical
+  neural networks do what they’re supposed to: where we are, where we’re going
+  (part 2 of 2).
+  https://decomposition.al/blog/2017/05/31/proving-that-safety-critical-neural-networks-do-what-theyre-supposed-to-where-we-are-where-were-going-part-2-of-2/
+
+**L**
+
+- [[[lamport2022,Lamport 2022]]] Leslie Lamport (2022).  Specifying
+  Systems: The TLA+ Language and Tools for Hardware and Software
+  Engineers.  Addison-Wesley.
+
+- [[[lehman1980,Lehman 1980]]] Meir Lehman (1980).  Programs, Life
+  Cycles, and Laws of Software Evoluation.  Proceedings of the IEEE,
+  Volume: 68, Issue: 9, September 1980.
+
+- [[[leroy2009,Leroy 2009]]] Xavier Leroy: Formal verification of a
+  realistic compiler,
+  Communications of the ACM 52(7) 2009, pages 107--115.
+
+**M**
+
+- [[[marques,Marques-Silva et al. 2018]]] Marques-Silva J., Malik S. (2018).
+  Propositional SAT Solving. In: Clarke, E., Henzinger, T., Veith, H., Bloem, R.
+  (eds) Handbook of Model Checking. Springer, Cham.
+  https://doi.org/10.1007/978-3-319-10575-8_9
+
+- [[[merz2008, Merz et al. 2008]]] Merz S., Navet N. (2008). Modeling and
+  Verification of Real‐Time Systems: Formalisms and Software Tools. ISTE Ltd.
+  https://doi.org/10.1002/9780470611012
+
+- [[[milner1973, Milner 1973]]] Milner, R. (1973) Models of LCF.
+  Stanford Artifical Intelligence Laboratory Memo AIM-186.
+
+**N**
+
+- [[[nipkow2014, Nipkow 2014]]] Nipkow, T., Klein, G. (2014) Concrete
+  Semantics with Isabelle/HOL.  Springer.
+  http://www.concrete-semantics.org/
+
+**P**
+
+- [[[paulson1993, Paulson 1993]]] Paulson, Lawrence C. (1993).
+  Isabelle: The Next 700 Theorem Provers.  CoRR, cs.LO/9301106.
+  https://arxiv.org/abs/cs/9301106
 
 **S**
 
-- [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
+- [[[schoening2008,Schöning 2008]]] Schöning, Uwe (2008). Logic for Computer
+  Scientists. Birkhäuser Boston.
+  https://doi.org/10.1007/978-0-8176-4763-6
 
+- [[[stump2016,Stump 2016]]] Aaron Stump (2016). Verified Functional
+  Programming in Agda. ACM.
+
+**T**
+
+- [[[troelstra2012,Troelstra and Schwichtenberg 2012]]] Troelstra A. S.,
+  Schwichtenberg H. (2012). Basic Proof Theory. Cambridge University Press.
+  https://doi.org/10.1017/CBO9781139168717
+
+**W**
+
+- [[[wayne2018,Wayne 2018]]] Hillel Wayne (2018).  Practical TLA+:
+  Planning Driven Development.  Apress.

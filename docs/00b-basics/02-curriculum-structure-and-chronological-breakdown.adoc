@@ -24,24 +24,14 @@
 |===
 | Content
 | Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
+| 1. <<Logic>> | 180
+| 2. <<Specification and Implementation>> | 300
+| 3. <<Formal Methods and the Development Process>> | 120
+| 4. <<Tools>> | 300
+| 5. <<{examples}>> | 180
 | |
-| Total | 960 (16h)
+| Total | 1080 (18h)
 
 |===
 
 // end::EN[]
-
-[NOTE]
-====
-Bitte die oben angegebene Tabelle entsprechend anpassen.
-
-= = =
-
-Please adjust the table above according to your curriculum.
-====

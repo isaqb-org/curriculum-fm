@@ -21,20 +21,13 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 Participants **should** have the following prerequisite knowledge:
 
-- Prerequisite 1
-- Prerequisite 2, etc.
+- basic knowledge of algebra
+- basic knowledge of logic
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
-- Area 1:
-  * Knowledge 1
-  * Experience 2
-  * Knowledge 3
-  * Experience 4
-  * Understanding 5
-// end::EN[]
+- functional programming
+- equational reasoning over programs
+- programming-language semantics
 
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====
+// end::EN[]

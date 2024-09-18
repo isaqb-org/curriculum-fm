@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== The Third Module's Title
+== Formal Methods and the Development Process
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

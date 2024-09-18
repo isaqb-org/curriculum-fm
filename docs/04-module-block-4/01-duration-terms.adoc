@@ -11,19 +11,13 @@ Begriff 1, Begriff 2, Begriff 3
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 150 min | Practice time: 150 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+property-based testing, type system, dependent types, model checking
+finite automat0on, binary decision diagram (BDD), computation tree
+logic (CTL), propositional linear temporal logic (PLTL), proof
+assistant, SMT solver, abstract interpretation, static analysis
+
 // end::EN[]
-
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====

@@ -10,20 +10,9 @@ Begriff 1, Begriff 2, Begriff 3
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 120 min | Practice time: 60 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+formal system, logic, propositional logic, predicate logic, temporal logic, intuitionistic logic, classical logic, syntax, semantics, conjunction, disjunction, implication, quantifier, logical calculus, natural calculus, sequent calculus, deduction, inference, resolution
 // end::EN[]
-
-
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====

@@ -20,15 +20,85 @@ tbd.
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: TBD
-tbd.
+==== LG 4-1: Property-Based Testing
+
+* Understand the concept of property-based testing, can
+  identify for which properties it is amenable, and guide the
+  implementation of property-based testing in a software project.
+
 
 [[LG-4-2]]
-==== LG 4-2: TBD
-tbd.
-// end::EN[]
+==== LG 4-2: Type Systems
 
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
+* Understand that type systems can express and ensure properties of
+  software system.
+
+* Know of the expressive power of different type systems.
+
+* Know the concept of dependent types.
+
+* Can choose languages and tools to exploit the capabilities of a type system in
+  a software system.
+
+[[LG-4-3]]
+==== LG 4-3: Model Checking
+
+* Understand that Model Checking describes methods to check whether a
+  logic formula is satisfied by a given model.
+
+* Understand that a model is represented explicit, for example as finite automata, or symbolic, for example
+  when using Binary Decision Diagrams (BDD).
+
+* Understand that various kinds of logic can be used, like:
+** Computation Tree Logic (CTL)
+** Propositional Linear Temporal Logic (PLTL).
+
+* Know about the consequences of the used
+  representation and logic with respect to:
+** complexity (e.g. space and time costs, state explosion,
+   combinatorial explosions)
+** usability
+** limitations
+
+[[LG-4-4]]
+==== LG 4-4: Proof Assistants
+
+* Understand the mode of operation of proof assistants.
+
+* Know at least one proof assistant.
+
+* Understand how to structure a software system to make it amenable to the use of
+  proof assistants.
+
+* Understand how they can translate requirements on a software
+  projects into proof obligations for a proof assistant.
+
+[[LG-4-5]]
+==== LG 4-5: SMT Solvers
+
+* Understand the concept of satisfiability modulo theories (SMT) and
+  its application and constraints as a tool for checking properties of
+  software systems.
+
+* Can identify which properties can be checked with the help of SMT
+  solvers.
+
+* Guide the implementation of SMT-assisted computations in a software
+  project.
+
+
+[[LG-4-6]]
+==== LG 4-6: Abstract Interpretation
+
+* Understand that the possible dynamic behavior of programs can be
+  soundly predicted using static analysis.
+
+* Understand that the abstract interpretation technique for static
+  analysis operates by executing the program over domains that are
+  abstracted from the domains of the regularly-running program.
+
+* Know the kinds of information that abstract interpretation might
+  yield, such as pointer aliasing, resource usage, control and data
+  flow.
+
+// end::EN[]

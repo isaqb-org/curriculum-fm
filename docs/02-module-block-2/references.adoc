@@ -1,12 +1,4 @@
 === {references}
 
-<<bass>>, <<clements>>
+<<iso24765>>, <<knuth1997>>, <<milner1973>>, <<nipkow2014>>, <<paulson1993>>
 
-[NOTE]
-====
-Eine Quelle wird über `\<<label>>` referenziert. Dieses muss in `99-references/00-references.adoc` definiert sein.
-
-= = =
-
-A reference source is referenced via `\<<label>>`. The label has to be defined in `99-references/00-references.adoc`.
-====
