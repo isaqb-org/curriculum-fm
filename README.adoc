@@ -28,8 +28,6 @@ in the early stages of development.
 toc::[]
 
 == How to contribute or participate
-Note that initial development happens on the [dev branch](https://github.com/isaqb-org/curriculum-fm/tree/dev).
-
 Create an issue, a merge- or pull-request
 
 Clone the repository - including the submodule:
