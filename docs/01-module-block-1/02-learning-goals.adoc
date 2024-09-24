@@ -64,7 +64,6 @@ Understand the basic concepts of a logical calculus:
 * Natural deduction
 * Sequent calculus
 * Resolution
-// end::EN[]
 
 [[LG-1-5]]
 ==== LG 1-5: Intuitionistic vs. Classical Logic
@@ -75,3 +74,4 @@ classical logic:
 * Constructive vs. non-constructive proofs
 * Axioms and inferences only admissible in classical logic (LEM, double negation elimination)
 * Correspondence of intuitionistic logic to programmign and type systems
+// end::EN[]
