@@ -75,3 +75,6 @@ classical logic:
 * Constructive vs. non-constructive proofs
 * Axioms and inferences only admissible in classical logic (LEM, double negation elimination)
 * Correspondence of intuitionistic logic to programmign and type systems
+
+
+I want to reference <<LG-1-4>>. 
