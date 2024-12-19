@@ -71,6 +71,7 @@ form of the specification such as:
   machines
 * use SMT/SAT solving for constraint systems
 * abstract interpretation for technical properties of the code
+* abstract interpretation for properties of the technical architecture
 * proof assistants for more general specifications
 
 (See section <<Tools>>.)
