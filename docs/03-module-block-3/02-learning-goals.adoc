@@ -81,7 +81,7 @@ form of the specification such as:
  
 Understand that formal methods can support architecture evaluation:
  
-* support to quantitative architecture evaluation techniques
+* support quantitative architecture evaluation techniques
 * support in the architecture evaluation
   process to deal with architectural topics uncovered with qualitative
   evaluation (e. g., review)
