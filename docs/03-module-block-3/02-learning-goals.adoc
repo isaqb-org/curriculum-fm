@@ -76,4 +76,21 @@ form of the specification such as:
 
 (See section <<Tools>>.)
 
+[[LG-3-7]]
+==== LG 3-7: Architecture Evaluation
+ 
+Understand that formal methods can support architecture evaluation:
+ 
+* support to quantitative architecture evaluation techniques
+* support in the architecture evaluation
+  process to deal with architectural topics uncovered with qualitative
+  evaluation (e. g., review)
+* using SMT/SAT solving for constraint
+  problems for continuous architecture refinement (e. g., application
+  to scheduling theory to address Performance Efficiency)
+* using abstract interpretation for
+  continuous architecture refinement (e. g., application to
+  architecture and code to address Performance Efficiency and
+  Security)
+
 // end::EN[]
