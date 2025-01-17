@@ -19,33 +19,31 @@ tbd.
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: Notions of specification
+==== LG 2-1: Differentiate notions of specification
 
-* Know different notions of specification, specifically:
-
-** examples
-** properties
-** formal
-** mechanized
-
-* Understand that specification may pertain to different kinds of
-  components, such as:
-
-** functions
-** data types
-** algorithms
-** systems
-
-* Understand that specifications may pertain to different
-  qualities, such as:
-
-** functionality
-** performance effiicency
-** security
-** safety
+* examples
+* properties
+* formal
+* mechanized
 
 [[LG-2-2]]
-==== LG 2-2: Formal Specifications
+==== LG 2-2: Understand that specification may pertain to different kinds of components
+
+* functions
+* data types
+* algorithms
+* systems
+
+[[LG-2-3]]
+==== LG 2-3: Understand that specifications may pertain to different qualities
+
+* functionality
+* performance effiicency
+* security
+* safety
+
+[[LG-2-4]]
+==== LG 2-4: Differentiate between formal specifications and other kinds of specification
 
 * Understand that applying formal methods requires formal
   specifications.
@@ -57,8 +55,8 @@ tbd.
   that admit only one output per input, and relational properties that
   admit multiple outputs per input.
 
-[[LG-2-3]]
-==== LG 2-3: Specification Languages
+[[LG-2-5]]
+==== LG 2-5: Know specification languages
 
 * Know that many different specification languages exist,
   among them some with tool support.
@@ -66,10 +64,8 @@ tbd.
 * Know that at least three such languages, and
   their distinguishing properties.
 
-[[LG-2-4]]
-==== LG 2-4: Refinement
-
-* Understand the notion of refinement.
+[[LG-2-6]]
+==== LG 2-6: Understand the notion of refinement
 
 * Understand that it may be helpful to develop a separate model
   between specification and implementation, which satisfies the
