@@ -1,8 +1,8 @@
 
-:recommended-duration-in-days: **3**
-:methodical-credits: **10**
-:technical-credits: **10**
-:communicative-credits: **10**
+:recommended-duration-in-days: 3
+:methodical-credits: 10
+:technical-credits: 10
+:communicative-credits: 10
 
 // tag::DE[]
 === Dauer, Didaktik und weitere Details
