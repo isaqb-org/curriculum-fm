@@ -43,7 +43,7 @@ tbd.
 * safety
 
 [[LG-2-4]]
-==== LG 2-4: Differentiate between formal specifications and other kinds of specification
+==== LG 2-4: Differentiate between formal specifications and other kinds of specifications
 
 * Understand that applying formal methods requires formal
   specifications.
@@ -56,13 +56,15 @@ tbd.
   admit multiple outputs per input.
 
 [[LG-2-5]]
-==== LG 2-5: Know specification languages
+==== LG 2-5: Know the distinguishing properties at least three different specification languages
 
 * Know that many different specification languages exist,
   among them some with tool support.
 
-* Know that at least three such languages, and
-  their distinguishing properties.
+* Examples for specification languages are Isabelle/HOL
+  <<nipkow2014>>, ACL2 <<kaufmann2000-approach>>, TLA+
+  <<lamport2022>>, and Alloy <<jackson2006>>.
+
 
 [[LG-2-6]]
 ==== LG 2-6: Understand the notion of refinement

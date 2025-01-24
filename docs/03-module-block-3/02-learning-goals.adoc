@@ -31,7 +31,7 @@ tbd.
   methods.
 
 [[LG-3-2]]
-==== LG 3-2: Know relevant qualities
+==== LG 3-2: Know relevant qualities that indicate the use of formal methods
 
 * Know the qualities that typically indicate the use of formal
   methods, such as reliability, safety, and security.
