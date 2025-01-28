@@ -27,7 +27,7 @@ tbd.
 * mechanized
 
 [[LG-2-2]]
-==== LG 2-2: Understand that specification may pertain to different kinds of components
+==== LG 2-2: Understand that specifications may pertain to different kinds of components
 
 * functions
 * data types
@@ -56,7 +56,7 @@ tbd.
   admit multiple outputs per input.
 
 [[LG-2-5]]
-==== LG 2-5: Know the distinguishing properties at least three different specification languages
+==== LG 2-5: Know the distinguishing properties of at least three different specification languages
 
 * Know that many different specification languages exist,
   among them some with tool support.
