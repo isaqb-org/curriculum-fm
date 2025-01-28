@@ -16,8 +16,7 @@ wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Litera
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: Propositional Logic
-Know the basic structure of propositional logic:
+==== LG 1-1: Know the basic structure of propositional logic
 
 * (atomic) propositions and their syntax
 * logical connectives such as conjunction
@@ -27,9 +26,7 @@ Know the basic structure of propositional logic:
 * Decidability of propositional logic
 
 [[LG-1-2]]
-==== LG 1-2: Predicate Logic
-
-Know the basic structure of predicate/first-order logic:
+==== LG 1-2: Know the basic structure of predicate/first-order logic
 
 * terms and their syntactic structure (variables, functions)
 * formulas and their syntactic structure (predicates, quantifiers)
@@ -45,18 +42,14 @@ Know the basic structure of predicate/first-order logic:
 * semi-decidability of predicate logic
 
 [[LG-1-3]]
-==== LG 1-3: Temporal Logic
-
-Know the basic structure of temporal operators:
+==== LG 1-3: Know the basic structure of temporal operators
 
 * eventually and forever
 * Different logics and interpretations, for example LTL vs. CTL
 * Connection to automata
 
 [[LG-1-4]]
-==== LG 1-4: Logical Calculi
-
-Understand the basic concepts of a logical calculus:
+==== LG 1-4: Understand the basic concepts of a logical calculus
 
 * Inference rules operating on syntactic structure of a formula
 * Different characteristics regarding supported fragments and runtime complexity
@@ -66,10 +59,7 @@ Understand the basic concepts of a logical calculus:
 * Resolution
 
 [[LG-1-5]]
-==== LG 1-5: Intuitionistic vs. Classical Logic
-
-Understand the difference between intuitionistic and
-classical logic:
+==== LG 1-5: Understand the difference between intuitionistic and classical logic
 
 * Constructive vs. non-constructive proofs
 * Axioms and inferences only admissible in classical logic (LEM, double negation elimination)

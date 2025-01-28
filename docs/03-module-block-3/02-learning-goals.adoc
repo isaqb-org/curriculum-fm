@@ -20,7 +20,7 @@ tbd.
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: Applicability
+==== LG 3-1: Identify where formal methods are applicable
 
 * Know that not all parts of a typical software system are
   susceptible to formal methods.
@@ -31,20 +31,20 @@ tbd.
   methods.
 
 [[LG-3-2]]
-==== LG 3-2: Relevant Qualities
+==== LG 3-2: Know relevant qualities that indicate the use of formal methods
 
 * Know the qualities that typically indicate the use of formal
   methods, such as reliability, safety, and security.
 
 [[LG-3-3]]
-==== LG 3-3: Relevance Specification
+==== LG 3-3: Understand the relevance of precise specification
 
 * Know that the successful application of formal methods
   depends on the precise specification of the properties they require
   the software system to exhibit.
 
 [[LG-3-4]]
-==== LG 3-4: Tradeoffs
+==== LG 3-4: Know tradeoffs between formal methods
 
 Know the tradeoffs inherent in the choice of a particular formal
 method, in particular with respect to:
@@ -55,14 +55,14 @@ method, in particular with respect to:
 * the qualificiations required of those who apply the method.
 
 [[LG-3-5]]
-==== LG 3-5: Gradual Introduction
+==== LG 3-5: Introduce formal methods gradually
 
 * Know techniques for gradually introducing formal methods into a
   software project such as adding static typing or property-based
   testing.
 
 [[LG-3-6]]
-==== LG 3-6: Appropriate Selection of Methods
+==== LG 3-6: Select appropriate formal methods
 
 Be able to choose an appropriate formal method depending on the
 form of the specification such as:
@@ -77,7 +77,7 @@ form of the specification such as:
 (See section <<Tools>>.)
 
 [[LG-3-7]]
-==== LG 3-7: Architecture Evaluation
+==== LG 3-7: Evaluate architecture with formal methods
  
 Understand that formal methods can support architecture evaluation:
  

@@ -20,7 +20,7 @@ tbd.
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: Property-Based Testing
+==== LG 4-1: Apply property-based testing
 
 * Understand the concept of property-based testing, can
   identify for which properties it is amenable, and guide the
@@ -28,7 +28,7 @@ tbd.
 
 
 [[LG-4-2]]
-==== LG 4-2: Type Systems
+==== LG 4-2: Understand the role of type systems
 
 * Understand that type systems can express and ensure properties of
   software system.
@@ -41,7 +41,7 @@ tbd.
   a software system.
 
 [[LG-4-3]]
-==== LG 4-3: Model Checking
+==== LG 4-3: Apply model checking to verify properties of automata
 
 * Understand that Model Checking describes methods to check whether a
   logic formula is satisfied by a given model.
@@ -61,7 +61,7 @@ tbd.
 ** limitations
 
 [[LG-4-4]]
-==== LG 4-4: Proof Assistants
+==== LG 4-4: Apply proof assistants to verify properties of arbitrary software systems
 
 * Understand the mode of operation of proof assistants.
 
@@ -74,7 +74,7 @@ tbd.
   projects into proof obligations for a proof assistant.
 
 [[LG-4-5]]
-==== LG 4-5: SMT Solvers
+==== LG 4-5: Apply SMT Solvers to verify constraints of arbitrary software systems
 
 * Understand the concept of satisfiability modulo theories (SMT) and
   its application and constraints as a tool for checking properties of
@@ -88,7 +88,7 @@ tbd.
 
 
 [[LG-4-6]]
-==== LG 4-6: Abstract Interpretation
+==== LG 4-6: Apply Abstract Interpretation to predict dynamic behavior statically
 
 * Understand that the possible dynamic behavior of programs can be
   soundly predicted using static analysis.
