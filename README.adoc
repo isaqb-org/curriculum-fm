@@ -31,7 +31,6 @@ toc::[]
 Create an issue, a merge- or pull-request
 
 Clone the repository - including the submodule:
-+
 --
 [source,shell]
 ----
@@ -42,8 +41,7 @@ Via HTTPS:
 git clone https://github.com/isaqb-org/curriculum-fm.git --recursive
 ----
 --
-. Build the project with http://www.gradle.com[gradle] (you need a locally installed JDK 17 or higher) via `./gradlew`.
-. Once the "BUILD SUCCESSFUL" is show, you can review the build result under `./build/`
+You build the output documents with gradle: `./gradle-tools/gradlew buildDocs`
 
 That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
 
