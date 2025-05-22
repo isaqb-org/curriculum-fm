@@ -22,8 +22,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-fm.svg["I
 This is <<copyrighted,copyrighted work>>.
 
 == Content
-This repository contains the curriculum Formal Methods.  It is still
-in the early stages of development.
+This repository contains the curriculum Formal Methods.
 
 toc::[]
 
@@ -45,7 +44,7 @@ git clone https://github.com/isaqb-org/curriculum-fm.git --recursive
 . Build the project with http://www.gradle.com[gradle] (you need a locally installed JDK 17 or higher) via `./gradlew`.
 . Once the "BUILD SUCCESSFUL" is show, you can review the build result under `./build/`
 
-That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
+That will produce both pdf and html output in English (EN), unless you modify the configuration.
 
 == Maintainers
 
