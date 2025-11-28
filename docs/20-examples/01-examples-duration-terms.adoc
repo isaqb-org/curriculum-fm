@@ -21,7 +21,7 @@ This section is not examinable.
 
 === Terms and Principles
 In every licensed training session, at least one example for the
-application opf formatl methods must be presented.
+application of formal methods must be presented.
 
 Type and structure of the examples presented may depend on the
 training and participants' interests.  They are not prescribed by
