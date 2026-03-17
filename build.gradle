@@ -1,6 +1,6 @@
 ext {
     curriculumFileName = "curriculum-fm"
-    languages = ["DE", "EN"]
+    languages = ["EN"]
 }
 
 defaultTasks 'buildDocs'
