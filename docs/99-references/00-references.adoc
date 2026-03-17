@@ -116,6 +116,11 @@
 - [[[iso24765, ISO 24765]]] ISO/IEC/IEEE 24765:2017.  Systems and
   software engineering.
 
+**J**
+
+- [[[jackson2006, Jackon 2006]]] Jackson, D. (2006). Software
+  Abstractions: Logic, Language, and Analysis. MIT Press.
+
 **H**
 
 - [[[claessen2000,Claessen and Hughes 2002]]] Koen Claessen, John
